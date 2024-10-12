@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repository
    bash
-   git clone https://github.com/yourusername/dynamic-responsive-landing-page.git
+   git clone https://github.com/beingdusmamud/dynamic-responsive-landing-page.git
    
 
 2. Navigate to the project directory
@@ -40,4 +40,4 @@ To get a local copy up and running follow these simple steps:
 3. Open `index.html` in your preferred web browser to view the landing page.
 
 ## Live Demo
-You can view a live demo of the project [here](insert_your_live_demo_link).
+You can view a live demo of the project [here](https://codepen.io/Dus-Mamud/pen/BaXpmWa).
